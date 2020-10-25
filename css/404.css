@@ -1,0 +1,23 @@
+#error-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #777777;
+}
+
+#error-code-line {
+  display: flex;
+  margin: 15% 30% 0 30%;
+  font-size: 170%;
+  padding-right: 8%;
+}
+
+#error-code {
+  margin: 0;
+  font-size: 1000%;
+}
+
+#error-description {
+  font-size: 250%;
+}
